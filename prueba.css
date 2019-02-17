@@ -1,4 +1,3 @@
 body   {
-    background: red;
+    background: linear-gradient(top, blue, gold);
 }
-<link rel="prueba.css" href=".Web/prueba.css">
